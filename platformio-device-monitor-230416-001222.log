@@ -1,0 +1,22 @@
+00:12:22.059 > [37m�\%���a�I��.��x����ߖ�:�A����d�W��¬���W����#A�K՚�j�Q ,������G*�녤'�mf��ʸ�վ'ӈ�+њ�ͦ�a0�,ɕ�W�4�C!���Q����,����SHȽ��������lK��L��e�ɹ������start
+00:12:22.059 >  External Reset
+00:12:22.059 >  Brown out Reset
+00:12:22.059 >  Watchdog Reset
+00:12:22.059 > Marlin 2.1.2
+00:12:22.059 > echo: Last Updated: 2022-12-17 | Author: Guilhotina
+00:12:22.059 > echo: Compiled: Apr 15 2023
+00:12:22.059 > echo: Free Memory: 246720  PlannerBufferBytes: 1344
+00:12:22.059 > echo:WiFi station started
+00:12:22.059 > echo:Connecting ITALO
+00:12:22.059 > echo:Connecting.
+00:12:22.059 > echo:Connected
+00:12:22.059 > echo:192.168.100.200
+00:12:22.059 > echo:Connected
+00:12:22.059 > echo:192.168.100.200
+00:12:22.059 > echo:V87 stored settings retrieved (635 bytes; crc 53323)
+00:12:22.059 > echo:OTA service started
+00:12:22.059 > echo:mDNS service (marlinesp) started
+00:12:22.059 > echo:SSDP service started
+00:12:22.059 > echo:HTTP server started
+00:12:22.059 > echo:192.168.100.200
+00:12:22.059 > echo:SD card released
